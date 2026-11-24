@@ -1,0 +1,162 @@
+{
+  "PA-001": {
+    "codigo": "PA-001",
+    "tipo": "PA",
+    "descricao": "Bicicleta Aro 29 MTB",
+    "unidade": "un",
+    "custo": 0,
+    "lead_time": 1,
+    "estoque_seguranca": 0,
+    "lote_minimo": 10
+  },
+  "PA-002": {
+    "codigo": "PA-002",
+    "tipo": "PA",
+    "descricao": "Bicicleta Aro 26 Urbana",
+    "unidade": "un",
+    "custo": 0,
+    "lead_time": 1,
+    "estoque_seguranca": 0,
+    "lote_minimo": 10
+  },
+  "SA-010": {
+    "codigo": "SA-010",
+    "tipo": "SA",
+    "descricao": "Quadro aro 29 soldado",
+    "unidade": "un",
+    "custo": 0,
+    "lead_time": 1,
+    "estoque_seguranca": 5,
+    "lote_minimo": 20
+  },
+  "SA-011": {
+    "codigo": "SA-011",
+    "tipo": "SA",
+    "descricao": "Quadro aro 26 soldado",
+    "unidade": "un",
+    "custo": 0,
+    "lead_time": 1,
+    "estoque_seguranca": 5,
+    "lote_minimo": 20
+  },
+  "SA-020": {
+    "codigo": "SA-020",
+    "tipo": "SA",
+    "descricao": "Roda aro 29 montada",
+    "unidade": "un",
+    "custo": 0,
+    "lead_time": 1,
+    "estoque_seguranca": 10,
+    "lote_minimo": 80
+  },
+  "SA-021": {
+    "codigo": "SA-021",
+    "tipo": "SA",
+    "descricao": "Roda aro 26 montada",
+    "unidade": "un",
+    "custo": 0,
+    "lead_time": 1,
+    "estoque_seguranca": 10,
+    "lote_minimo": 40
+  },
+  "MP-100": {
+    "codigo": "MP-100",
+    "tipo": "MP",
+    "descricao": "Tubo de aco carbono",
+    "unidade": "m",
+    "custo": 22,
+    "lead_time": 1,
+    "estoque_seguranca": 50,
+    "lote_minimo": 200
+  },
+  "MP-101": {
+    "codigo": "MP-101",
+    "tipo": "MP",
+    "descricao": "Tinta epoxi",
+    "unidade": "L",
+    "custo": 44,
+    "lead_time": 1,
+    "estoque_seguranca": 10,
+    "lote_minimo": 20
+  },
+  "MP-200": {
+    "codigo": "MP-200",
+    "tipo": "MP",
+    "descricao": "Aro 29 aluminio",
+    "unidade": "un",
+    "custo": 45,
+    "lead_time": 2,
+    "estoque_seguranca": 20,
+    "lote_minimo": 100
+  },
+  "MP-201": {
+    "codigo": "MP-201",
+    "tipo": "MP",
+    "descricao": "Raio inox",
+    "unidade": "un",
+    "custo": 0.8,
+    "lead_time": 2,
+    "estoque_seguranca": 500,
+    "lote_minimo": 2000
+  },
+  "MP-202": {
+    "codigo": "MP-202",
+    "tipo": "MP",
+    "descricao": "Pneu 29 x 2.20",
+    "unidade": "un",
+    "custo": 46,
+    "lead_time": 1,
+    "estoque_seguranca": 20,
+    "lote_minimo": 60
+  },
+  "MP-210": {
+    "codigo": "MP-210",
+    "tipo": "MP",
+    "descricao": "Aro 26 aluminio",
+    "unidade": "un",
+    "custo": 38,
+    "lead_time": 2,
+    "estoque_seguranca": 10,
+    "lote_minimo": 50
+  },
+  "MP-212": {
+    "codigo": "MP-212",
+    "tipo": "MP",
+    "descricao": "Pneu 26 x 1.95",
+    "unidade": "un",
+    "custo": 35,
+    "lead_time": 1,
+    "estoque_seguranca": 10,
+    "lote_minimo": 50
+  },
+  "MP-300": {
+    "codigo": "MP-300",
+    "tipo": "MP",
+    "descricao": "Guidao",
+    "unidade": "un",
+    "custo": 45,
+    "lead_time": 1,
+    "estoque_seguranca": 10,
+    "lote_minimo": 30
+  },
+  "MP-301": {
+    "codigo": "MP-301",
+    "tipo": "MP",
+    "descricao": "Kit transmissao 12v",
+    "unidade": "un",
+    "custo": 320,
+    "lead_time": 2,
+    "estoque_seguranca": 5,
+    "lote_minimo": 20
+  },
+  "MP-302": {
+    "codigo": "MP-302",
+    "tipo": "MP",
+    "descricao": "Kit transmissao 7v",
+    "unidade": "un",
+    "custo": 150,
+    "lead_time": 2,
+    "estoque_seguranca": 5,
+    "lote_minimo": 20
+  }
+}

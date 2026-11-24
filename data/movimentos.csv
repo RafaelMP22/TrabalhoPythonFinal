@@ -1,0 +1,16 @@
+﻿data;codigo;tipo;quantidade;saldo;documento
+24/11/2026;PA-002;ENTRADA;10.0;10.0;Saldo inicial
+24/11/2026;SA-010;ENTRADA;50.0;50.0;Saldo inicial
+24/11/2026;SA-011;ENTRADA;15.0;15.0;Saldo inicial
+24/11/2026;SA-020;ENTRADA;40.0;40.0;Saldo inicial
+24/11/2026;SA-021;ENTRADA;30.0;30.0;Saldo inicial
+24/11/2026;MP-100;ENTRADA;300.0;300.0;Saldo inicial
+24/11/2026;MP-101;ENTRADA;40.0;40.0;Saldo inicial
+24/11/2026;MP-200;ENTRADA;120.0;120.0;Saldo inicial
+24/11/2026;MP-201;ENTRADA;4500.0;4500.0;Saldo inicial
+24/11/2026;MP-202;ENTRADA;60.0;60.0;Saldo inicial
+24/11/2026;MP-210;ENTRADA;60.0;60.0;Saldo inicial
+24/11/2026;MP-212;ENTRADA;60.0;60.0;Saldo inicial
+24/11/2026;MP-300;ENTRADA;40.0;40.0;Saldo inicial
+24/11/2026;MP-301;ENTRADA;35.0;35.0;Saldo inicial
+24/11/2026;MP-302;ENTRADA;25.0;25.0;Saldo inicial

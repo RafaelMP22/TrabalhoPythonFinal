@@ -1,0 +1,26 @@
+{
+  "CT-01": {
+    "codigo": "CT-01",
+    "descricao": "Soldagem e pintura",
+    "capacidade": 40,
+    "custo_hora": 40
+  },
+  "CT-02": {
+    "codigo": "CT-02",
+    "descricao": "Montagem de rodas",
+    "capacidade": 40,
+    "custo_hora": 40
+  },
+  "CT-03": {
+    "codigo": "CT-03",
+    "descricao": "Montagem final",
+    "capacidade": 16,
+    "custo_hora": 40
+  },
+  "CT-04": {
+    "codigo": "CT-04",
+    "descricao": "Montagem urbana",
+    "capacidade": 16,
+    "custo_hora": 40
+  }
+}
