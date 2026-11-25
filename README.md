@@ -8,8 +8,8 @@ A cada execução, o sistema responde: o que produzir ou comprar, quanto, quando
 - Instituição: UFCI-MG (antigo CEFET-MG), Campus Divinópolis
 - Professor: Guido Pantuza
 - Aluno: Rafael Moreira de Paula
-- Vídeo do sistema em funcionamento: [LINK]
-- Vídeo de explicação do código: [LINK]
+- Vídeo do sistema em funcionamento: [(https://drive.google.com/file/d/1-3EJFkSYlGatRZmIHmtB2utGaQWpT7f_/view?usp=drive_link)]
+- Vídeo de explicação do código: [https://drive.google.com/file/d/1giNZYIGKl2Lnz2zZ2J6G_erc8LJmQ1ld/view?usp=drive_link]
 
 ## Sumário
 
